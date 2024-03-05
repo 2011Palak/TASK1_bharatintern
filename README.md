@@ -1,2 +1,2 @@
 Registration Form -
-Made using HTML, Javascript, Mongo DB and Node.js
+Made using HTML, CSS, Javascript, Mongo DB and Node.js
